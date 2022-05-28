@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "qoute": "There is no path to happiness; happiness is the path.",
+    "author": "Buddha"
+  },
+  {
+    "id": 2,
+    "qoute": "I have chosen to be happy because it's good for my health.",
+    "author": "Voltaire"
+  },
+  {
+    "id": 3,
+    "qoute": "They say a person needs just three things to be truly happy in this world: Someone to love, something to do, and something to hope for.",
+    "author": "Tom Bodett"
+  },
+  { "id": 4, "qoute": "quote", "author": "author" }
+]
