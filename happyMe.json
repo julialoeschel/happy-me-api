@@ -2,19 +2,87 @@
   "data": [
     {
       "id": 1,
-      "qoute": "There is no path to happiness; happiness is the path.",
-      "author": "Buddha"
+      "quote": "There is no path to happiness; happiness is the path.",
+      "author": "Buddha",
+      "language": "eng"
     },
     {
       "id": 2,
-      "qoute": "I have chosen to be happy because it's good for my health.",
-      "author": "Voltaire"
+      "quote": "I have chosen to be happy because it's good for my health.",
+      "author": "Voltaire",
+      "language": "eng"
     },
     {
       "id": 3,
-      "qoute": "They say a person needs just three things to be truly happy in this world: Someone to love, something to do, and something to hope for.",
-      "author": "Tom Bodett"
+      "quote": "They say a person needs just three things to be truly happy in this world: Someone to love, something to do, and something to hope for.",
+      "author": "Tom Bodett",
+      "language": "eng"
     },
-    { "id": 4, "qoute": "quote", "author": "author" }
+    {
+      "id": 4,
+      "quote": "Happiness is not the absence of problems, it’s the ability to deal with them.",
+      "author": "Steve Maraboli",
+      "language": "eng"
+    },
+    {
+      "id": 5,
+      "quote": "Happiness consists more in conveniences of pleasure that occur everyday than in great pieces of good fortune that happen but seldom.",
+      "author": "Benjamin Franklin",
+      "language": "eng"
+    },
+    {
+      "id": 6,
+      "quote": "Be healthy and take care of yourself, but be happy with the beautiful things that make you, you.",
+      "author": "Beyoncé ",
+      "language": "eng"
+    },
+    {
+      "id": 7,
+      "quote": "The biggest adventure you can ever take is to live the life of your dreams.",
+      "author": "Oprah Winfrey",
+      "language": "eng"
+    },
+    {
+      "id": 8,
+      "quote": "Beauty is everywhere. You only have to look to see it.",
+      "author": " Bob Ross ",
+      "language": "eng"
+    },
+    {
+      "id": 9,
+      "quote": "You can’t stop the waves, but you can learn to swim.",
+      "author": "Jon Kabat Zinn",
+      "language": "eng"
+    },
+    {
+      "id": 10,
+      "quote": "The most important thing is to enjoy your life — to be happy. It's all that matters.",
+      "author": "Audrey Hepburn",
+      "language": "eng"
+    },
+    {
+      "id": 11,
+      "quote": "Happiness is the best makeup.",
+      "author": "Drew Barrymore",
+      "language": "eng"
+    },
+    {
+      "id": 12,
+      "quote": "If you want to be happy, be.",
+      "author": " Leo Tolstoy",
+      "language": "eng"
+    },
+    {
+      "id": 13,
+      "quote": "Da es sehr förderlich für die Gesundheit ist, habe ich beschlossen, glücklich zu sein!",
+      "author": "Voltaire",
+      "language": "de"
+    },
+    {
+      "id": 14,
+      "quote": "Fast überall wo es Glück gibt, gibt es Freude am Unsinn.",
+      "author": "Friedrich Nietzsche",
+      "language": "de"
+    }
   ]
 }
